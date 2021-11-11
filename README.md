@@ -1,8 +1,5 @@
 ## Olá, Eu sou o Arthur! Seja bem vindo ao meu GitHub 😁
 
-
-Estudante de Front End 😻
-
 <div align="center">
   <a href="https://github.com/arthurt520">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurt520&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
