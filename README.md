@@ -1,4 +1,4 @@
-## Olá, Eu sou o Arthur! Seja bem vindo ao meu GitHub 😁
+## Olá, eu sou o Arthur! Seja bem vindo ao meu GitHub 😁
 
 <div align="left">
   <a href="https://github.com/arthurt520">
